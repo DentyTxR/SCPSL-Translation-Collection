@@ -31,6 +31,10 @@ Q. Is this only for English?
 
 A. Yes, This translation is created for English only.
 
+## Previews
 
+1. https://raw.githubusercontent.com/DentyMods/SCP-SL-Fiery-Red-Translation/main/Fiery%20Red1/previews/preview-1.png
+2. https://raw.githubusercontent.com/DentyMods/SCP-SL-Fiery-Red-Translation/main/Fiery%20Red1/previews/preview-2.png
+3. https://raw.githubusercontent.com/DentyMods/SCP-SL-Fiery-Red-Translation/main/Fiery%20Red1/previews/preview-3.png
 
-If you have a issue or suggestion contact me on Discord DentyTxR#0524
+## If you have a issue or suggestion contact me on Discord DentyTxR#0524
