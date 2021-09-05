@@ -3,7 +3,7 @@
 * Fiery Red Menu
 * Purple Void Menu (dark)
 
-## To download a theme just down the ZIP theme you want and extract it
+## To download a theme just download the ZIP theme you want and extract it
 
 
 ## Previews
