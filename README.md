@@ -8,25 +8,25 @@ How to install?
 
 
 FAQ
-
+-
 Q. Can I get banned for this?
 
 A. No, You are only changing literal words (translations), This has nothing todo with internal game files.
 
-
+-
 Q. What is changed?
 
 A. Only the main menu is changed.
 
-
+-
 Q. How do I go back to the default translation?
 
 A. Simpley change your language in settings to English (Default).
 
-
+-
 Q. Is this only for English?
 
 A. Yes, This translation is created for English only.
 
-
+-
 If you have a issue or suggestion contact me on Discord DentyTxR#0524
