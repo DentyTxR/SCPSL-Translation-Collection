@@ -2,6 +2,10 @@
 
 * Fiery Red Menu
 * Purple Void Menu (dark)
+* [TO-DO] Purple Void Menu (light)
+* [TO-DO] Yellow Menu
+* [TO-DO] Green Menu
+* [TO-DO] Blue Menu (Will do multiple shades)
 
 ## To download a theme just download the ZIP theme you want and extract it
 
