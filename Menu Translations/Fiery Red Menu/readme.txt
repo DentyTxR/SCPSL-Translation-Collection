@@ -3,8 +3,8 @@ Created By Denty
 =======================
 
 How to install?
-1. copy the "Fiery Red" folder with all the .txt files into your "\Steam\steamapps\common\SCP Secret Laboratory\Translations" folder
-2. Launch SCP:SL and navigate to Settings->Others->Language->Fiery Red
+1. copy the "Fiery Red Menu" folder with all the .txt files into your "\Steam\steamapps\common\SCP Secret Laboratory\Translations" folder
+2. Launch SCP:SL and navigate to Settings->Others->Language->Fiery Red Menu
 
 
 FAQ
