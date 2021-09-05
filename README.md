@@ -1,10 +1,8 @@
-# SCP: SL Fiery Red Translation
-
-Created By Denty
+# A collection of all custom translations I made
 
 How to install?
-1. copy the "Fiery Red" folder with all the .txt files into your "\Steam\steamapps\common\SCP Secret Laboratory\Translations" folder
-2. Launch SCP:SL and navigate to Settings->Others->Language->Fiery Red
+1. copy the translation folder with all the .txt files into your "\Steam\steamapps\common\SCP Secret Laboratory\Translations" folder, The translation folder is the second folder inside the ZIP
+2. Launch SCP:SL and navigate to Settings->Others->Language-> and find the translation for example "Fiery Red"
 
 
 ## FAQ
@@ -13,11 +11,6 @@ Q. Can I get banned for this?
 
 A. No, You are only changing literal words (translations), This has nothing todo with internal game files.
 
-
-
-Q. What is changed?
-
-A. Only the main menu is changed.
 
 
 
@@ -33,8 +26,5 @@ A. Yes, This translation is created for English only.
 
 ## Previews
 
-![alt text](https://raw.githubusercontent.com/DentyMods/SCP-SL-Fiery-Red-Translation/main/Fiery%20Red1/previews/preview-1.png)
-![alt text](https://raw.githubusercontent.com/DentyMods/SCP-SL-Fiery-Red-Translation/main/Fiery%20Red1/previews/preview-2.png)
-![alt text](https://raw.githubusercontent.com/DentyMods/SCP-SL-Fiery-Red-Translation/main/Fiery%20Red1/previews/preview-3.png)
 
 ## If you have a issue or suggestion contact me on Discord DentyTxR#0524
