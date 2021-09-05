@@ -1,7 +1,7 @@
 # A collection of all custom translations I made
 
 How to install?
-1. copy the translation folder with all the .txt files into your "\Steam\steamapps\common\SCP Secret Laboratory\Translations" folder, The translation folder is the second folder inside the ZIP
+1. copy the translation folder with all the .txt files into your "\Steam\steamapps\common\SCP Secret Laboratory\Translations" folder, The translation folder is the second folder inside the ZIP (example Fiery Red1->Fiery Red)
 2. Launch SCP:SL and navigate to Settings->Others->Language-> and find the translation for example "Fiery Red"
 
 
