@@ -24,7 +24,6 @@ A. Simpley change your language in settings to English (Default).
 
 A. Yes, This translation is created for English only.
 
-## Previews
 
 
 ## If you have a issue or suggestion contact me on Discord DentyTxR#0524
