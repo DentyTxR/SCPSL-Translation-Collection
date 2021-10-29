@@ -1,10 +1,13 @@
-# Menu Translations (Legacy)
+# Menu Translations
 ### These may not work, Use at your own risk.
 
 * Fiery Red Menu
 * Purple Void Menu (dark)
+* [TO-DO] Green Menu
+* [TO-DO] Blue Menu (Will do multiple shades)
+* [TO-DO] Meme Shit
 
-#### To download a theme just download this github and drag one of the folders into your translations folder, Video below https://www.youtube.com/watch?v=nXZpNtWNwfs
+##### To download a theme just download this github and drag one of the folders into your translations folder, Video below https://www.youtube.com/watch?v=nXZpNtWNwfs
 
 
 ## Previews
