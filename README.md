@@ -7,6 +7,7 @@
 ### Q. How to install?
 1. copy the translation folder with all the .txt files into your "\Steam\steamapps\common\SCP Secret Laboratory\Translations" folder, The translation folder is the second folder inside the ZIP (example: Fiery Red Menu->Fiery Red Menu)
 2. Launch SCP:SL and navigate to Settings->Others->Language-> and find the translation for example "Fiery Red"
+3. Heres a video if you are lazy to read, https://www.youtube.com/watch?v=nXZpNtWNwfs
 
 
 ### Q. Can I get banned for this?
