@@ -1,9 +1,7 @@
 # Menu Translations
 
-## Why is there a bunch of folders?
- * These folders mark each game version, We suggest using the latest version to make sure nothing breaks, This also makes it easier for me to create new themes.
+# redoing this
 
-<br />
 To download a theme just download this github and drag one of the folders into your translations folder, Video below https://www.youtube.com/watch?v=nXZpNtWNwfs
 
 ***
