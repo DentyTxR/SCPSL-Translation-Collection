@@ -1,7 +1,7 @@
 # Menu Translations
 
 ### Themes
-* Halloween Menu Theme 11.0.3
+* Halloween Menu Theme [Last ver update: 11.0.3]
 * Fiery Red Menu [Needs updating]
 * Purple Void Menu (dark) [Needs updating]
 
