@@ -3,8 +3,8 @@ Created By Denty
 =======================
 
 How to install?
-1. copy the "Halloween Menu 11.0.3" folder with all the .txt files into your "\Steam\steamapps\common\SCP Secret Laboratory\Translations" folder
-2. Launch SCP:SL and navigate to Settings->Others->Language->Halloween Menu 11.0.3
+1. copy the "Halloween Menu" folder with all the .txt files into your "\Steam\steamapps\common\SCP Secret Laboratory\Translations" folder
+2. Launch SCP:SL and navigate to Settings->Others->Language->Halloween Menu (version)
 
 
 FAQ
