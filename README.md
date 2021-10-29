@@ -31,5 +31,5 @@
 
 P.S: After a while I will remove older game version folders to save space.
 
-#### Heres a little preview :)
-![alt](https://raw.githubusercontent.com/DentyTxR/Dentys-SCPSL-Translation-Collection/main/Menu%20Translations/Legacy%20(Might%20not%20work)/Purple%20Void%20Menu%20(dark)/previews/preview-1.png)
+#### Heres a little preview, One of many custom translations :)
+![alt](https://raw.githubusercontent.com/DentyTxR/SCPSL-Translation-Collection/main/Menu%20Translations/Halloween%20Menu/previews/2.png)
