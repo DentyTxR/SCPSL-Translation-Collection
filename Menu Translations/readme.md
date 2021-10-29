@@ -1,4 +1,4 @@
-# T Translations
+# Menu Translations
 
 ## List of themes
 * Fiery Red Menu
