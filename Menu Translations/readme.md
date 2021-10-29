@@ -8,7 +8,5 @@ To download a theme just download this github and drag one of the folders into y
 
 ***
 
-## Previews
+## Preview
 ![alt text](https://raw.githubusercontent.com/DentyTxR/Dentys-SCPSL-Translation-Collection/main/Menu%20Translations/Legacy%20(Might%20not%20work)/Fiery%20Red%20Menu/previews/preview-1.png)
-
-![alt text](https://raw.githubusercontent.com/DentyTxR/Dentys-SCPSL-Translation-Collection/main/Menu%20Translations/Legacy%20(Might%20not%20work)/Purple%20Void%20Menu%20(dark)/previews/preview-1.png)
