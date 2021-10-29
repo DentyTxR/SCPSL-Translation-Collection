@@ -11,7 +11,7 @@
 
 
 ### Q. Can I get banned for this?
-* A. No, You are only changing literal words (translations), This has nothing todo with internal game files.
+* A. No, You are only changing literal plain text (translations), This has nothing todo with internal game files.
 
 
 ### Q. How do I go back to the default translation?
