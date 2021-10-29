@@ -7,7 +7,7 @@
 * [TO-DO] Green Menu
 * [TO-DO] Blue Menu (Will do multiple shades)
 
-## To download a theme just download this github and drag one of the folders into your translations folder, Video below https://www.youtube.com/watch?v=nXZpNtWNwfs
+#### To download a theme just download this github and drag one of the folders into your translations folder, Video below https://www.youtube.com/watch?v=nXZpNtWNwfs
 
 
 ## Previews
