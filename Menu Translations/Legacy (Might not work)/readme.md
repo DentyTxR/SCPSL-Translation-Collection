@@ -1,5 +1,5 @@
 # Menu Translations (Legacy)
-### These may not work, Use at your own risk.
+### I highly suggest not using these, These may not work, Use at your own risk.
 
 * Fiery Red Menu
 * Purple Void Menu (dark)
