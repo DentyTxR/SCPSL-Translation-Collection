@@ -1,8 +1,9 @@
-# Menu Translations
+# T Translations
 
 ## List of themes
 * Fiery Red Menu
 * Purple Void Menu (dark)
+* [TO-DO] Halloween Menu
 * [TO-DO] Green Menu
 * [TO-DO] Blue Menu (Will do multiple shades)
 * [TO-DO] Meme Shit
