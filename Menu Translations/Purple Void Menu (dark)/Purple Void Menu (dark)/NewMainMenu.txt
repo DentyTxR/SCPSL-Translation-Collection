@@ -55,7 +55,7 @@ SCP-079 - Toggle View Mode
 SCP-079 - Post-Processing
 Language
 Main Menu
-Connect
+<color=#551A8B>C</color><color=#501883>o</color><color=#4B167B>n</color><color=#461573>n</color><color=#41136B>e</color><color=#3C1263>c</color><color=#37105B>t</color>
 <color=#551A8B>B</color><color=#4A1679>a</color><color=#3F1368>c</color><color=#341056>k</color>
 This change will require a reload.\nReload the menu now?
 Yes
