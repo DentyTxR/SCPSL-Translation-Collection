@@ -1,0 +1,15 @@
+Candies
+Rainbow Candy
+Its a hard piece of rock candy, packed with all sorts of flavours.
+Yellow Candy
+The overwhelming smell of lemon makes you cringe a little. Trick or treat?
+Purple Candy
+It has a juicy grape smell. Your mouth begins to water. Trick or treat?
+Red Candy
+A strong scent of cherry fills the room. It’s a bit... <i>too</i> strong. Trick or treat?
+Green Candy
+A nasty, herbal smell emits from the candy. Trick or treat?
+Blue Candy
+It smells soft and sweet, something akin to a marshmallow.
+Pink Candy
+The strawberry scent is as gentle as it looks. Trick or treat?
