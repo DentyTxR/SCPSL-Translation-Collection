@@ -1,4 +1,4 @@
-# Dentys-SCPSL-Translation-Collection
+# SCPSL Translation Collection
 
 
 
@@ -8,6 +8,11 @@
 1. copy the translation folder with all the .txt files into your "\Steam\steamapps\common\SCP Secret Laboratory\Translations" folder, The translation folder is the second folder inside the ZIP (example: Fiery Red Menu->Fiery Red Menu)
 2. Launch SCP:SL and navigate to Settings->Others->Language-> and find the translation for example "Fiery Red"
 3. Heres a video if you are lazy to read, https://www.youtube.com/watch?v=nXZpNtWNwfs
+
+
+### Q. How Can I Contribute?
+* A. If you want to add your own themes/translations here simply create a pull request **with** your theme, Make sure to add it to the correct version folder and please try to follow my other layouts with a *readme.txt* & *previews* folder. If you want to fix an issue with a theme simply make a pull request. 
+* *If you need template files goto the **template** folder in this root dir*
 
 
 ### Q. Can I get banned for this?
