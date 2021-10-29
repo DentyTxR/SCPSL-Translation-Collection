@@ -1,14 +1,5 @@
 # Menu Translations
 
-## List of themes
-* Fiery Red Menu
-* Purple Void Menu (dark)
-* [TO-DO] Halloween Menu
-* [TO-DO] Green Menu
-* [TO-DO] Blue Menu (Will do multiple shades)
-* [TO-DO] Meme Shit
-
-
 ## Why is there a bunch of folders?
  * These folders mark each game version, We suggest using the latest version to make sure nothing breaks, This also makes it easier for me to create new themes.
 
