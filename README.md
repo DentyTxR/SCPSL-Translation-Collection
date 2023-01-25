@@ -1,7 +1,6 @@
 # SCPSL Translation Collection
 
 
-
 ## FAQ
 
 ### Q. How to install?
@@ -28,8 +27,6 @@
 
 
 ## If you have a issue or suggestion contact me on Discord DentyTxR#0524
-
-P.S: After a while I will remove older game version folders to save space.
 
 #### Heres a little preview, One of many custom translations :)
 ![alt](https://raw.githubusercontent.com/DentyTxR/SCPSL-Translation-Collection/main/Menu%20Translations/Halloween%20Menu/previews/2.png)
